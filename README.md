@@ -12,16 +12,16 @@ Funcionalidades:
 - Lista atividade por usuário  
 - Destaca os IPs externos mais ativos  
 
-* Como usar *
+# Como usar
 
-# Opção 1: 
+- Opção 1: 
 - Rodar no Python:
 python src/Analyser.py
 Insira manualmente o log .auth ou importe através de um arquivo .txt.
 
 -> O resumo do log será gerado dentro do próprio aplicativo (exemplos de logs estão na pasta samples/ <-
 
-# Opção 2: 
+- Opção 2: 
 - Usar o executável (windows)
 Baixe o arquivo .exe na pasta release/ e execute diretamente no Windows.
 Insira manualmente o log .auth ou importe através de um arquivo .txt.
