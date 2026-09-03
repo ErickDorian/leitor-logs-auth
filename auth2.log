@@ -1,0 +1,24 @@
+Jun 24 08:14:55 web-01 sshd[2901]: Failed password for invalid user admin from 203.0.113.7 port 54110 ssh2
+Jun 24 08:14:57 web-01 sshd[2902]: Failed password for invalid user admin from 203.0.113.7 port 54112 ssh2
+Jun 24 08:14:59 web-01 sshd[2903]: Failed password for invalid user test from 203.0.113.7 port 54114 ssh2
+Jun 24 08:15:01 web-01 sshd[2904]: Failed password for invalid user oracle from 203.0.113.7 port 54116 ssh2
+Jun 24 08:15:03 web-01 sshd[2905]: Failed password for invalid user postgres from 203.0.113.7 port 54118 ssh2
+Jun 24 08:15:05 web-01 sshd[2906]: Failed password for invalid user git from 203.0.113.7 port 54120 ssh2
+Jun 24 08:15:07 web-01 sshd[2907]: Failed password for invalid user ubuntu from 203.0.113.7 port 54122 ssh2
+Jun 24 08:15:09 web-01 sshd[2908]: Failed password for root from 203.0.113.7 port 54124 ssh2
+Jun 24 08:15:11 web-01 sshd[2909]: Failed password for root from 203.0.113.7 port 54126 ssh2
+Jun 24 08:16:02 web-01 sshd[2950]: Failed password for jsmith from 198.51.100.23 port 41001 ssh2
+Jun 24 08:16:05 web-01 sshd[2951]: Failed password for jsmith from 198.51.100.23 port 41003 ssh2
+Jun 24 08:16:08 web-01 sshd[2952]: Failed password for jsmith from 198.51.100.23 port 41005 ssh2
+Jun 24 08:16:12 web-01 sshd[2953]: Failed password for jsmith from 198.51.100.23 port 41007 ssh2
+Jun 24 08:16:20 web-01 sshd[2954]: Accepted password for jsmith from 198.51.100.23 port 41009 ssh2
+Jun 24 08:17:00 web-01 sshd[2960]: Accepted publickey for deploy from 10.0.0.14 port 50122 ssh2
+Jun 24 08:18:30 web-01 sudo:  jsmith : TTY=pts/0 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
+Jun 24 08:19:05 web-01 sudo:  badguy : user NOT in sudoers ; TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/bin/bash
+Jun 24 08:19:40 web-01 sudo: pam_unix(sudo:auth): authentication failure; logname=carol uid=1003 euid=0 tty=/dev/pts/2 ruser=carol rhost= user=carol
+Jun 24 08:20:00 web-01 sshd[3001]: Invalid user fdsa from 192.0.2.55 port 60001
+Jun 24 08:20:02 web-01 sshd[3002]: Invalid user oracle from 192.0.2.55 port 60003
+Jun 24 08:20:04 web-01 sshd[3003]: Invalid user admin from 192.0.2.55 port 60005
+Jun 24 08:20:06 web-01 sshd[3004]: Invalid user mysql from 192.0.2.55 port 60007
+Jun 24 08:20:08 web-01 sshd[3005]: Invalid user ftpuser from 192.0.2.55 port 60009
+Jun 24 08:25:11 web-01 sshd[3100]: Accepted password for alice from 10.0.0.31 port 50880 ssh2
