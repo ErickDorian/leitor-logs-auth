@@ -23,7 +23,7 @@ Insira manualmente o log .auth ou importe através de um arquivo .txt.
 
 - Opção 2: 
 - Usar o executável (windows)
-Baixe o arquivo .exe na pasta principal e execute diretamente no Windows.
+Baixe o arquivo leitor-logs-auth.exe na pasta principal e execute diretamente no Windows.
 Insira manualmente o log .auth ou importe através de um arquivo .txt.
 
 -> O resumo do log será gerado dentro do próprio aplicativo (exemplos de logs estão na pasta /samples). <-
@@ -34,7 +34,7 @@ Treinar análise e gerar relatórios simplificados sobre os logs auth gerados de
 # Requisitos
 - Python 3.10+ (em caso de execução dentro do Python)
 - Tkinter (já vem com Python em muitas distribuições)
-- Windows (para execução do .exe localizado dentro da pasta /release)
+- Windows (para execução do leitor-logs-auth.exe localizado dentro da pasta principal)
 
 # Licença
 Distribuído sob a licença MIT. Veja /LICENSE para mais detalhes.
